@@ -1,0 +1,12 @@
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe.config
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.pdb
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\SimpleTCP.dll
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csprojAssemblyReference.cache
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.Server.resources
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.Properties.Resources.resources
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csproj.GenerateResource.cache
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csproj.CopyComplete
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.exe
+C:\Users\Tp\source\repos\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tp\source\repos\RockPaperScissorsGame\Client\bin\Debug\Client.exe.config
+C:\Users\Tp\source\repos\RockPaperScissorsGame\Client\bin\Debug\Client.exe
+C:\Users\Tp\source\repos\RockPaperScissorsGame\Client\bin\Debug\Client.pdb
+C:\Users\Tp\source\repos\RockPaperScissorsGame\Client\bin\Debug\SimpleTCP.dll
+C:\Users\Tp\source\repos\RockPaperScissorsGame\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Tp\source\repos\RockPaperScissorsGame\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Tp\source\repos\RockPaperScissorsGame\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Tp\source\repos\RockPaperScissorsGame\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Tp\source\repos\RockPaperScissorsGame\Client\obj\Debug\Client.exe
+C:\Users\Tp\source\repos\RockPaperScissorsGame\Client\obj\Debug\Client.pdb
+C:\Users\Tp\source\repos\RockPaperScissorsGame\Client\obj\Debug\Client.Client.resources
